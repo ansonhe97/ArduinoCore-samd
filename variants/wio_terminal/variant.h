@@ -241,7 +241,7 @@ static const uint8_t DAC1 = PIN_DAC1;
 /*
  * IRQ0
  */
-#define IRQ0 (11ul)
+#define RTL8720D_IRQ0 (11ul)
 
 /*
  * BUZZER_CTR
